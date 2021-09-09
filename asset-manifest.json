@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/foody-react-app/static/css/main.660afd31.chunk.css",
+    "main.js": "/foody-react-app/static/js/main.b61ca71f.chunk.js",
+    "main.js.map": "/foody-react-app/static/js/main.b61ca71f.chunk.js.map",
+    "runtime-main.js": "/foody-react-app/static/js/runtime-main.f8acdeee.js",
+    "runtime-main.js.map": "/foody-react-app/static/js/runtime-main.f8acdeee.js.map",
+    "static/js/2.2d58a9ed.chunk.js": "/foody-react-app/static/js/2.2d58a9ed.chunk.js",
+    "static/js/2.2d58a9ed.chunk.js.map": "/foody-react-app/static/js/2.2d58a9ed.chunk.js.map",
+    "index.html": "/foody-react-app/index.html",
+    "static/css/main.660afd31.chunk.css.map": "/foody-react-app/static/css/main.660afd31.chunk.css.map",
+    "static/js/2.2d58a9ed.chunk.js.LICENSE.txt": "/foody-react-app/static/js/2.2d58a9ed.chunk.js.LICENSE.txt",
+    "static/media/Home.scss": "/foody-react-app/static/media/Arimo-VariableFont_wght.911df5c2.ttf",
+    "static/media/close.ca8c67c1.svg": "/foody-react-app/static/media/close.ca8c67c1.svg",
+    "static/media/headerBackground1.0a3f7f56.jpg": "/foody-react-app/static/media/headerBackground1.0a3f7f56.jpg",
+    "static/media/headerBackground10.189abe9b.jpg": "/foody-react-app/static/media/headerBackground10.189abe9b.jpg",
+    "static/media/headerBackground11.f39ea5b0.jpg": "/foody-react-app/static/media/headerBackground11.f39ea5b0.jpg",
+    "static/media/headerBackground12.a11fcc94.jpg": "/foody-react-app/static/media/headerBackground12.a11fcc94.jpg",
+    "static/media/headerBackground2.6f539357.jpg": "/foody-react-app/static/media/headerBackground2.6f539357.jpg",
+    "static/media/headerBackground3.6484f0ed.jpg": "/foody-react-app/static/media/headerBackground3.6484f0ed.jpg",
+    "static/media/headerBackground4.68acaafe.jpg": "/foody-react-app/static/media/headerBackground4.68acaafe.jpg",
+    "static/media/headerBackground5.61e2544c.jpg": "/foody-react-app/static/media/headerBackground5.61e2544c.jpg",
+    "static/media/headerBackground6.da11067b.jpg": "/foody-react-app/static/media/headerBackground6.da11067b.jpg",
+    "static/media/headerBackground7.e8dfed6f.jpg": "/foody-react-app/static/media/headerBackground7.e8dfed6f.jpg",
+    "static/media/headerBackground8.1615b3b5.jpg": "/foody-react-app/static/media/headerBackground8.1615b3b5.jpg",
+    "static/media/headerBackground9.e48289d8.jpg": "/foody-react-app/static/media/headerBackground9.e48289d8.jpg",
+    "static/media/options.59af5f1e.svg": "/foody-react-app/static/media/options.59af5f1e.svg",
+    "static/media/previous.0af4d9b6.svg": "/foody-react-app/static/media/previous.0af4d9b6.svg",
+    "static/media/search.2f0668dd.svg": "/foody-react-app/static/media/search.2f0668dd.svg",
+    "static/media/star.a54cf8f4.svg": "/foody-react-app/static/media/star.a54cf8f4.svg",
+    "static/media/user.a6143582.png": "/foody-react-app/static/media/user.a6143582.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8acdeee.js",
+    "static/js/2.2d58a9ed.chunk.js",
+    "static/css/main.660afd31.chunk.css",
+    "static/js/main.b61ca71f.chunk.js"
+  ]
+}
